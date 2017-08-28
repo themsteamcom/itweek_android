@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ITWeekDemo</string>
+
+    <string name="scan_duplicate_error">QR-code duplicate error</string>
+    <string name="scan_no_match_error">QR-code recognition error</string>
+    <string name="scan_success">QR-code successfully added</string>
+    <string name="scan_completed" translatable="false">Gotta Scan \'Em All</string>
+    <string name="undefined_error">Undefined error</string>
+    <string name="plain_text">text/plain</string>
+    <string name="send_to">Send to: </string>
+    <string name="empty_list_hint">Scan QR-codes during \nthe presentation</string>
+    <string name="achievement_link">http://career.tehnologika.ru</string>
+</resources>

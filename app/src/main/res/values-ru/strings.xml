@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ITWeekDemo</string>
+    <string name="empty_list_hint">Сканируйте QR-коды во время презентации</string>
+    <string name="scan_duplicate_error">Ошибка дублирования QR-кодов</string>
+    <string name="scan_no_match_error">Ошибка распознавания QR-кода</string>
+    <string name="scan_success">QR-код успешно добавлен</string>
+    <string name="send_to">Отправить: </string>
+    <string name="undefined_error">Неизвестная ошибка</string>
+</resources>

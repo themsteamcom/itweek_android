@@ -1,0 +1,23 @@
+<resources>
+    <dimen name="list_item_font_size_code">20sp</dimen>
+    <dimen name="list_item_font_size_note">16sp</dimen>
+
+    <dimen name="my_snackbar_text_size">14sp</dimen>
+    <dimen name="hint_text_size">16sp</dimen>
+
+    <dimen name="spacing_giant"             >86dp</dimen>
+    <dimen name="spacing_huge2"             >56dp</dimen>
+    <dimen name="spacing_huge"              >40dp</dimen>
+    <dimen name="spacing_big"               >30dp</dimen>
+    <dimen name="spacing_large"             >24dp</dimen>
+    <dimen name="spacing_medium2"           >20dp</dimen>
+    <dimen name="spacing_medium"            >14dp</dimen>
+    <dimen name="spacing_small"             >10dp</dimen>
+    <dimen name="spacing_smaller"           >8dp</dimen>
+    <dimen name="spacing_smallest"          >4dp</dimen>
+    <dimen name="spacing_tiny"              >2.5dp</dimen>
+    <dimen name="spacing_bit"               >1.3dp</dimen>
+
+    <dimen name="my_snackbar_padding_horizontal">12dp</dimen>
+    <dimen name="my_snackbar_padding_vertical">14dp</dimen>
+</resources>
